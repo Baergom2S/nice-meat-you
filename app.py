@@ -1,3 +1,3 @@
-a = "hi"
-b = 1
-print("%d"%a+b)
+a = "hi1"
+b = 98
+print("%s, %d" % (a, b))
